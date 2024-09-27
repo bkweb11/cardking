@@ -1,0 +1,32 @@
+{
+  "youtube": {
+    "type": "y_home",
+    "url": "https://m.youtube.com/",
+    "img": "https://bkweb11.github.io/cardking/appimg/youtube.png",
+    "label": "youtube"
+  },
+  "twitch": {
+    "type": "y_home",
+    "url": "https://www.twitch.tv",
+    "img": "https://bkweb11.github.io/cardking/appimg/twitch.png",
+    "label": "Twitch"
+  },
+  "dtube": {
+    "type": "y_home",
+    "url": "https://d.tube",
+    "img": "https://bkweb11.github.io/cardking/appimg/dtube.png",
+    "label": "dtube"
+  },
+  "titktok": {
+    "type": "y_home",
+    "url": "https://www.tiktok.com",
+    "img": "https://bkweb11.github.io/cardking/appimg/titktok.png",
+    "label": "titktok"
+  },
+  "hotstar": {
+    "type": "y_home",
+    "url": "https://www.hotstar.com",
+    "img": "https://bkweb11.github.io/cardking/appimg/hotstar.png",
+    "label": "hotstar"
+  }
+}
