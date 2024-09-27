@@ -2,7 +2,7 @@
   "youtube": {
     "type": "y_home",
     "url": "https://m.youtube.com/",
-    "img": "https://bkweb11.github.io/cardking/appimg/youtube.png",
+    "img":  "https://bkweb11.github.io/cardking/appimg/youtube.png",
     "label": "youtube"
   },
   "twitch": {
