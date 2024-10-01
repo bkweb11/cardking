@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "101",
   "apkUrl": "https://bkweb11.github.io/cardking/youtubeking.apk",
   "releaseNotes": "Bug fixes and performance improvements.",
   "is_ads_free":"no"
